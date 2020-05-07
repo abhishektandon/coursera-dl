@@ -7,6 +7,9 @@
 [![Code Climate](https://codeclimate.com/github/coursera-dl/coursera-dl/badges/gpa.svg)](https://codeclimate.com/github/coursera-dl/coursera-dl)
 
 <!-- TOC -->
+## TL; DR
+For Windows
+```coursera-dl -u <email> -p <password> --cauth <cauth key> --subtitle en course-name```
 
 - [Coursera Downloader](#coursera-downloader)
 - [Introduction](#introduction)
